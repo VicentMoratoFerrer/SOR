@@ -16,7 +16,7 @@
  
  - Windows 
  
-      Windows es un sistema operativo para computadoras, es propiedad de Microsoft y de su fundador, Bill Gates, y es uno de los más utilizados en todo el mundo. 
+      Windows es un sistema operativo para odenadores, es propiedad de Microsoft, y es uno de los más utilizados en todo el mundo. 
     
  
  ![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/200px-Windows_logo_-_2012.svg.png)
