@@ -49,11 +49,3 @@
     Linux: Núcleo del sistema operativo GNU / Linux,  Código original desarrollado por Linus y la Fundación GNU,  Soporte comunitario gratuito / Soporte con coste de proveedores de servicios, Admite la mayoría de sistemas de archivos.
     
     
-### Buscar video en youtube que explique todos los servicios
-
-1. [DHCP](https://www.youtube.com/watch?v=iRxCk76T4SU&ab_channel=Sentinela)
-2. [DNS](https://www.youtube.com/watch?v=jWkYWJA8fus&ab_channel=Sentinela)
-3. [HTTP](https://www.youtube.com/watch?v=S975NVYbe2E&ab_channel=HTMLRules)
-4. [FTP](https://www.youtube.com/watch?v=XF-T2xjSGfI)
-5. [Servidor de impresion](https://www.youtube.com/watch?v=LU4IbCvYsFI)
-6. [Base de datos](https://www.youtube.com/watch?v=z1VpShi4zTE)
